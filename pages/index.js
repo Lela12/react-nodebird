@@ -4,7 +4,7 @@ import AppLayout from "../components/AppLayout";
 const Home = () => {
   return (
     <AppLayout>
-      <div>회원가입</div>
+      <div>Hello, Next!</div>
     </AppLayout>
   );
 };
